@@ -15,3 +15,11 @@ Assignment No 3 for the computer graphics course. Using three.js, create a solar
 - The panning and rotation of the system has to be controlled using an orbit controller.
 
 **Deadline:** 19/02/19 14:30 hrs
+
+**Grade: 80**
+
+**Feedback**
+You are not using the orbit controller.
+You are using a directional and ambient light. The light is supposed to come from the sun with a point light.
+Some planets are missing their moons.
+The asteroid belt is missing.
